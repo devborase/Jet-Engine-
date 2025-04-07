@@ -1,0 +1,10 @@
+jet-engine-design/
+├── Creo_Files/
+│   ├── jet_engine_assembly.asm
+│   ├── compressor.prt
+│   ├── turbine.prt
+│   └── combustion_chamber.prt
+├── Images/https://drive.google.com/drive/folders/12nS6bQZB2p81E_tqIojjp6gk7nAYMea3
+│   └── Design resources:https://drive.google.com/drive/folders/11vQ21XJI9BpvBgooJwi4Li1002yZRSeS
+├── README.md
+└── .gitignore
